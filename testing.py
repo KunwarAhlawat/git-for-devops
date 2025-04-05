@@ -1,1 +1,1 @@
-print("Hello dosto kya haal h kese h sub log")
+print("Hello Friends")
